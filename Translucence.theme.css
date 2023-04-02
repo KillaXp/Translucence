@@ -25,9 +25,9 @@
 	--accent-text-color: #DAC17C; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.4);
-	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+	--main-content-color: rgba(0,0,0,0.3); /*	-	*/
 
-	--message-color: rgba(0,0,0,0.4);
+	--message-color: rgba(0,0,0,0.5);
 	--message-radius: 8px;
 	--message-padding-top: 8px;
 	--message-padding-side: 8px; /*	-	*/
