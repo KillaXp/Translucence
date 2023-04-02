@@ -13,16 +13,16 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
+	--app-bg: url(https://images.rawpixel.com/image_1300/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yNDItcGZzMS1leWUtMDIuanBn.jpg);
 	--app-blur: 6px;
-	--app-margin: 24px;
+	--app-margin: 14px;
 	--app-radius: 8px; /*	-	*/
 	
-	--accent-hue: 156;
-	--accent-saturation: 77.5%;
-	--accent-lightness: 47.1%;
+	--accent-hue: 44;
+	--accent-saturation: 56%;
+	--accent-lightness: 67%;
 	--accent-opacity: 1;
-	--accent-text-color: #000; /*	-	*/
+	--accent-text-color: #DAC17C; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
